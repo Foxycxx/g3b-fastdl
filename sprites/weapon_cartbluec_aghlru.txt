@@ -1,0 +1,9 @@
+7
+weapon			640 aghlru/cartblue		0	0	170	45
+weapon_s		640 aghlru/cartblue		0	45	170	45
+ammo			640 640hud7			0	96	24	24
+crosshair		640 crosshairs			24	0	24	24
+autoaim			640 crosshairs			0	72	24	24
+zoom			640 aghlru/sniper_cartblue	0	0	20	20
+zoom_autoaim		640 aghlru/sniper_cartblue	0	0	20	20
+

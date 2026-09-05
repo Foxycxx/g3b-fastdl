@@ -1,0 +1,21 @@
+zm_escapetrain
+
+Versao 1.0
+Construido Por: ZeZa - https://steamcommunity.com/id/zeza
+...............................................
+Your mission is to reach the end of the map and escape by train.
+Try to Survive.
+
+Sua missao e chegar ao final do mapa e escapar de trem.
+Tente sobreviver.
+...............................................
+www.osmarmota.com.br
+
+Mesmos criadores de:
+
+zm_jambalaya_escape
+zm_escapetrain
+zm_umbrella_v1
+zm_tosco_map
+zm_uberlandia_city
+surf_marmota_v5

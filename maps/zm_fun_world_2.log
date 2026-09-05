@@ -1,0 +1,232 @@
+hlcsg v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlcsg -----
+Command line: C:\Users\Owner\DOCUME~1\COUNTE~1\HAMMER~1\ZHLT34~1\hlcsg.exe "C:\Program Files (x86)\Steam\steamapps\hazik666\counter-strike\cstrike\maps\zm_fun_world_2"
+Entering C:\Program Files (x86)\Steam\steamapps\hazik666\counter-strike\cstrike\maps\zm_fun_world_2.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       4 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+5 brushes (totalling 30 sides) discarded from clipping hulls
+CreateBrush:
+ (0.02 seconds)
+SetModelCenters:
+ (0.00 seconds)
+CSGBrush:
+ (0.15 seconds)
+
+Using Wadfile: \users\owner\documents\counter strike\hammer editor\wads\zm_fun_world.wad
+ - Contains 14 used textures, 70.00 percent of map (23 textures in wad)
+Using Wadfile: \users\owner\documents\counter strike\hammer editor\wads\halflife.wad
+ - Contains 6 used textures, 30.00 percent of map (3116 textures in wad)
+
+added 6 additional animating textures.
+Texture usage is at 0.75 mb (of 4.00 mb MAX)
+0.20 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlbsp -----
+Command line: C:\Users\Owner\DOCUME~1\COUNTE~1\HAMMER~1\ZHLT34~1\hlbsp.exe "C:\Program Files (x86)\Steam\steamapps\hazik666\counter-strike\cstrike\maps\zm_fun_world_2"
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       4 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noopt               [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 8192)
+
+
+SolidBSP [hull 0] 500...591 (0.02 seconds)
+BSP generation successful, writing portal file 'C:\Program Files (x86)\Steam\steamapps\hazik666\counter-strike\cstrike\maps\zm_fun_world_2.prt'
+SolidBSP [hull 1] 419 (0.01 seconds)
+SolidBSP [hull 2] 405 (0.01 seconds)
+SolidBSP [hull 3] 500...562 (0.02 seconds)
+0.26 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlvis -----
+Command line: C:\Users\Owner\DOCUME~1\COUNTE~1\HAMMER~1\ZHLT34~1\hlvis.exe "C:\Program Files (x86)\Steam\steamapps\hazik666\counter-strike\cstrike\maps\zm_fun_world_2"
+ 213 portalleafs
+ 488 numportals
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       4 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+max vis distance    [       0 ] [       0 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [     off ] [     off ]
+full vis            [     off ] [     off ]
+
+
+BasePortalVis:
+ (0.01 seconds)
+LeafThread:
+ (0.31 seconds)
+average leafs visible: 67
+g_visdatasize:4920  compressed from 5751
+0.35 seconds elapsed
+
+-----   END   hlvis -----
+
+
+
+hlrad v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlrad -----
+Command line: C:\Users\Owner\DOCUME~1\COUNTE~1\HAMMER~1\ZHLT34~1\hlrad.exe "C:\Program Files (x86)\Steam\steamapps\hazik666\counter-strike\cstrike\maps\zm_fun_world_2"
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 4 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [               off ] [               off ]
+estimate             [               off ] [               off ]
+max texture memory   [           4194304 ] [           4194304 ]
+max lighting memory  [           6291456 ] [           6291456 ]
+priority             [            Normal ] [            Normal ]
+
+vismatrix algorithm  [          Original ] [          Original ]
+oversampling (-extra)[               off ] [               off ]
+bounces              [                 1 ] [                 1 ]
+bounce dynamic light [                on ] [                on ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+maximum light        [           255.000 ] [           256.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            50.000 ] [            50.000 ]
+direct threshold     [            25.000 ] [            25.000 ]
+direct light scale   [             2.000 ] [             2.000 ]
+coring threshold     [             1.000 ] [             1.000 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global falloff       [                 2 ] [                 2 ]
+global light scale   [ 1.000 1.000 1.000 ] [ 1.000 1.000 1.000 ]
+global gamma         [ 0.500 0.500 0.500 ] [ 0.500 0.500 0.500 ]
+global light scale   [             1.000 ] [             1.000 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+colour jitter        [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+monochromatic jitter [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+softlight hack       [   0.0 0.0 0.0 0.0 ] [   0.0 0.0 0.0 0.0 ]
+diffuse hack         [                on ] [                on ]
+spotlight points     [                on ] [                on ]
+
+custom shadows with bounce light
+                     [               off ] [               off ]
+rgb transfers        [               off ] [               off ]
+
+
+[Reading texlights from 'C:\Users\Owner\DOCUME~1\COUNTE~1\HAMMER~1\ZHLT34~1\lights.rad']
+[59 texlights parsed from 'C:\Users\Owner\DOCUME~1\COUNTE~1\HAMMER~1\ZHLT34~1\lights.rad']
+
+1090 faces
+Create Patches : 6047 base patches
+0 opaque faces
+57053 square feet [8215709.50 square inches]
+17 direct lights
+
+BuildFacelights:
+ (1.23 seconds)
+visibility matrix   :   2.2 megs
+BuildVisLeafs:
+ (0.63 seconds)
+MakeScales:
+ (0.22 seconds)
+SwapTransfers:
+ (0.08 seconds)
+Transfer Lists :     2458238 :    2.46M transfers
+       Indices :     1339680 :    1.28M bytes
+          Data :     9832952 :    9.38M bytes
+GatherLight:
+ (0.07 seconds)
+FinalLightFace:
+ (0.06 seconds)
+2.37 seconds elapsed
+
+-----   END   hlrad -----
+
+
+

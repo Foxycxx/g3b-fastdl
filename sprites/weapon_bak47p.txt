@@ -1,0 +1,6 @@
+5
+weapon			640 bak47p/bak47p	0	90	170	45
+weapon_s			640 bak47p/bak47p	0	135	170	45
+ammo			640 bak47p/bak47p	230	178	25	30
+crosshair			640 crosshairs	24	0	24	24
+autoaim			640 crosshairs	0	72	24	24
