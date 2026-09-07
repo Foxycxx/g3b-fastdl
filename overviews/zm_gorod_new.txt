@@ -1,0 +1,14 @@
+// overview description file for zm_gorod_new.bsp
+
+global 
+{
+	ZOOM	1.31
+	ORIGIN	145.00 	216.00	-74.50
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_gorod_new.bmp"
+	HEIGHT	-3951.00
+}
