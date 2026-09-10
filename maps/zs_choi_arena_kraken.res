@@ -1,0 +1,10 @@
+gfx/env/spacebk.tga
+gfx/env/spacedn.tga
+gfx/env/spaceft.tga
+gfx/env/spacelf.tga
+gfx/env/spacert.tga
+gfx/env/spaceup.tga
+models/zs_choi_arena_kraken/bg_plight.mdl
+models/zs_choi_arena_kraken/ef_hurricane.mdl
+models/zs_choi_arena_kraken/gibs_cave.mdl
+zs_choi_arena_kraken.wad
