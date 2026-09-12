@@ -1,0 +1,10 @@
+maps/ZM_MINECRAFT_2k18.bsp
+maps/ZM_MINECRAFT_2k18.res
+maps/ZM_MINECRAFT_2k18.txt
+ZM_MINECRAFT_2k18.wad
+gfx/env/desertbk.tga
+gfx/env/desertdn.tga
+gfx/env/des_blue_ft.tga
+gfx/env/desertlf.tga
+gfx/env/desertrt.tga
+gfx/env/desertup.tga

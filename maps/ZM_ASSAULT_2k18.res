@@ -1,0 +1,12 @@
+maps/ZM_ASSAULT_2k18.res
+maps/ZM_ASSAULT_2k18.bsp
+maps/ZM_ASSAULT_2k18.txt
+ZM_ASSAULT_2k18.wad
+cs_assault.wad
+halflife.wad
+gfx/env/city1up.tga
+gfx/env/city1dn.tga
+gfx/env/city1lf.tga
+gfx/env/city1rt.tga
+gfx/env/city1ft.tga
+gfx/env/city1bk.tga
