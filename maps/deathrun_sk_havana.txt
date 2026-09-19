@@ -1,0 +1,20 @@
+deathrun_sk_havana
+____________
+map by Skals (Albert Naumovs)
+Version 1.2 of deathrun_havana
+____________
+differences:
+Arrows for directions (for noobs).
+Some shortcuts removed.
+Secrets Added.
+Players no longer get stuck in walls.
+No problems with "ghost" plugins.
+____________
+The map takes place in Havana where the player has to jump and run across several ledges, 
+platforms and rooftops within the map to eventually reach the teleporter that will lead them 
+above the map where the terrorist is. All the shortcuts in the map are intentional, 
+there are a few longjumps you can do to skip small portions of the map to make your run quicker, 
+but it's up to you weather you take the risk or not.
+
+Credits:
+Special thanks to Stojke, Commander & Vluzacn.
