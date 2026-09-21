@@ -1,0 +1,14 @@
+cs_camouflage.wad
+cs_common.wad
+cs_tuto.wad
+de_rex.wad
+dm_tunnel.wad
+zm_abyss.wad
+zm_abyss2.wad
+gfx/env/2officedn.tga
+gfx/env/2officert.tga
+gfx/env/2officeup.tga
+gfx/env/2officebk.tga
+gfx/env/2officeft.tga
+gfx/env/2officelf.tga
+gfx/env/2officedn.tga
