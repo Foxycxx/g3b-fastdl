@@ -1,0 +1,4 @@
+3
+weapon		640 whipflail/640hud266	0	180	170	45
+weapon_s	640 whipflail/640hud266	0	180	170	45
+ammo		640 whipflail/640hud266	49	231	24	24
