@@ -1,0 +1,4 @@
+3
+weapon_s	640 ascalon/640hud252	0	180	170	45
+weapon		640 ascalon/640hud252	0	180	170	45
+ammo		640 ascalon/640hud252	1	231	24	24
